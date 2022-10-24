@@ -1,0 +1,80 @@
+body {
+  background-color: #000;
+}
+
+.callFormContainer {
+  background-color: #251b5a;
+  border-radius: 20px;
+  box-sizing: border-box;
+  height: 440px;
+  padding: 20px;
+  width: 320px;
+  margin: 40px auto;
+}
+
+.title {
+  text-align: center;
+  color: #eee;
+  font-family: sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.subtitle {
+  text-align: center;
+  color: #eee;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 20px 0;
+}
+
+.mb-3 {
+  position: relative;
+  width: 100%;
+  color: #eee;
+}
+
+table { 
+  border-spacing: 1; 
+  border-collapse: collapse; 
+  background:#251b5a;
+  border-radius:20px;
+  overflow:hidden;
+  max-width:800px; 
+  width:100%;
+  margin:0 auto;
+  position:relative;
+  padding: 5px;
+}
+
+th {
+  height: 60px;
+  background: white;
+  font-size:16px;
+  text-align: center;
+}
+
+td {
+  border: 1px solid #251b5a;
+  font-family: sans-serif;
+  color: #eee;
+  text-align: center;
+}
+
+.btn {
+  background-color: #08d;
+  color: #eee;
+  border: #08d 1px solid;
+  margin: 10px;
+  padding: 5px;
+}
+
+.btn:hover {
+  background-color: #06b;
+}
+
+
+
+
